@@ -1,8 +1,11 @@
-# Submission Checker for _Pengenalan ke Dasar Pemrograman untuk Menjadi Pengembang Software_
+# Platform Quiz Injector :construction: WIP :construction:
 
-## :construction: work in progress
+## How to use
 
-On review page you can see somethinng like this
-
-![preview](https://raw.githubusercontent.com/dicodingacademy/submission-checker-course-237/master/preview.png?token=AFKAJEJYOD36BFV3HDK5OKDA2SVX4)
+- Install extentensions ini
+- Karena masih testing, hanya bisa digunakan di kelas Menjadi Ganteng
+- Buat Kategori soal baru, dan klik tombol list soal
+- Di form masukkan nilai **_1zXEuUFaOvi3-rmdH1vBXfGtIwLdOZX9GH6lfpx_rT98!Kuis Modifikasi Aplikasi Perangkat Lunak_**
+- Klik tombol
+- Tunggu sampai selesai
 
